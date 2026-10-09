@@ -1,0 +1,16 @@
+#movie-tabs{
+width: 80%;
+}
+
+#my-content{
+height: 40rem;
+overflow-y: scroll;
+}
+
+td > img {
+    height: 6rem
+}
+
+#detailed-view > a > img {
+    height:8rem;
+}
